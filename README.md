@@ -15,6 +15,8 @@ D1PNET помогает игрокам разобраться в задержк�
 - Публичный IP и примерное местоположение по кнопке.
 - Рекомендации рядом с показателями и общий пошаговый мануал.
 - Памятки для Counter-Strike 2, Dota 2, VALORANT, Fortnite, Deadlock, Dead by Daylight, PUBG, Crossout, Roblox, World of Tanks и Minecraft.
+- Новые игры: Genshin Impact, Apex Legends, Rust, GTA V, Overwatch, Terraria, Call of Duty, DayZ, Euro Truck Simulator 2, Garry’s Mod, 7 Days to Die.
+- Выбор World of Tanks / «Мир танков», подраздел FACEIT, поиск игр и короткие инструкции по фризам и откатам.
 - Настройки для каждой игры; Minecraft уточняет Java/Bedrock, Radmin VPN, LAN, хостинг, свой сервер, Realms или публичный сервер.
 - Инструкции для MikroTik, TP-Link, Keenetic, ASUS, FRITZ!Box и OpenWrt: скорости 10/100/1000, bridge, VLAN и задержка под нагрузкой.
 - Ручной разбор показаний из игры, локальная история и TXT-отчёты.
