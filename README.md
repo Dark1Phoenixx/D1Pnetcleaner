@@ -10,11 +10,13 @@ D1PNET помогает игрокам разобраться в задержк�
 
 ## Что доступно
 
-- Реальная проверка времени HTTP-ответа и график задержки.
+- 20 HTTP-проверок по умолчанию, график задержки и понятные рекомендации.
 - Понятные объяснения пинга, джиттера и потерь пакетов.
 - Публичный IP и примерное местоположение по кнопке.
 - Рекомендации рядом с показателями и общий пошаговый мануал.
-- Памятки для Counter-Strike 2, Dota 2, VALORANT, Fortnite, Deadlock и Dead by Daylight.
+- Памятки для Counter-Strike 2, Dota 2, VALORANT, Fortnite, Deadlock, Dead by Daylight, PUBG, Crossout, Roblox, World of Tanks и Minecraft.
+- Настройки для каждой игры; Minecraft уточняет Java/Bedrock, Radmin VPN, LAN, хостинг, свой сервер, Realms или публичный сервер.
+- Инструкции для MikroTik, TP-Link, Keenetic, ASUS, FRITZ!Box и OpenWrt: скорости 10/100/1000, bridge, VLAN и задержка под нагрузкой.
 - Ручной разбор показаний из игры, локальная история и TXT-отчёты.
 
 ## Что важно понимать
